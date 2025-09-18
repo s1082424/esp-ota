@@ -1,4 +1,4 @@
 {
-  "latest;1,2,0",
-  "bin";GITHUB02.INO.bin"
+  "latest": "1.2.0",
+  "bin": "sketch_sep18a.ino"
 }
